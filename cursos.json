@@ -1,0 +1,14 @@
+{
+  "pessoas": [
+    {
+      "nome": "Fred Tavares",
+      "idade": 52,
+      "id": 1
+    },
+    {
+      "nome": "Susie Tavares",
+      "idade": 44,
+      "id": 2
+    }
+  ]
+}
