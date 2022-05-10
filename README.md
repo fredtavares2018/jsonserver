@@ -1,5 +1,7 @@
 # JSONsERVER
 
+Estamos estudando como usar o Postman - desktop
+
 Primeiramente é importante ter instalado:
 
 https://nodejs.org/en/
